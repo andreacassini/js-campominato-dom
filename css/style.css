@@ -65,6 +65,10 @@ main{
     font-size: 20px;
 }
 
+.square.bomb-found{
+    background-color: red;
+}
+
 .clicked{
     background-color: rgb(0, 218, 247);
 }
